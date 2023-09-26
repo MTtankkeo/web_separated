@@ -1,2 +1,2 @@
 # web_separated
-This web package is consistent and simple to define row and column spacing.
+This web package allows you to define row and column spacing consistently and simply.
