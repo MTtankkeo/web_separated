@@ -4,7 +4,7 @@ Using this web package, you can define row and column spacing in HTML consistent
 > It simplifies the layout configuration process by allowing you to set consistent spacing with ease, 
 > And the example doesn't work in the local environment.
 
-## Useble
+## Usage
 
 To define vertical spacing between children, declare the `<column-separated>` tag.
 Conversely, to establish horizontal spacing, declare the `<row-separated>` tag.
