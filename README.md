@@ -11,19 +11,19 @@ Conversely, to establish horizontal spacing, declare the `<row-separated>` tag.
 
 > When setting the spacing, define the value in the property of `spacing`.
 
-## Vertical
+### Vertical
 ```html
 <!-- Set the spacing between column-items to 15px. -->
 <column-separated spacing="15px"></column-separated spacing="15px">
 ```
 
-## Horizontal
+### Horizontal
 ```html
 <!-- Set the spacing between column-items to 15px. -->
 <row-separated spacing="15px"></row-separated spacing="15px">
 ```
 
-##Example
+### Example
 This setup creates a structured layout with defined spaces that make your content more readable and aesthetically pleasing.
 
 ```html
