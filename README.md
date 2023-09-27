@@ -1,7 +1,7 @@
 # web_separated
 This web package allows you to define row and column spacing consistently and simply.
 
-> Simplifying the layout configuration processes.
+> It simplifies the layout configuration process by allowing you to set consistent spacing with ease, 
 > And the example doesn't work in the local environment.
 
 ## Useble
