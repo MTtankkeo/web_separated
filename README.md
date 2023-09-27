@@ -1,5 +1,5 @@
 # web_separated
-This web package allows you to define row and column spacing consistently and simply.
+Using this web package, you can define row and column spacing in HTML consistently and simply.
 
 > It simplifies the layout configuration process by allowing you to set consistent spacing with ease, 
 > And the example doesn't work in the local environment.
