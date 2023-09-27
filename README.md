@@ -6,8 +6,8 @@ This web package allows you to define row and column spacing consistently and si
 
 ## Useble
 
-The following describes how to define the contents of the json files within the localizations folder, <br />
-And this example json file is `korean.json` provided by default.
+To define vertical spacing between children, declare the `column-separated` tag.
+Conversely, to establish horizontal spacing, declare the `row-separated` tag.
 
 ```html
 <!-- Set the spacing between column-items to 15px. -->
