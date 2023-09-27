@@ -6,8 +6,8 @@ This web package allows you to define row and column spacing consistently and si
 
 ## Useble
 
-To define vertical spacing between children, declare the `column-separated` tag.
-Conversely, to establish horizontal spacing, declare the `row-separated` tag.
+To define vertical spacing between children, declare the `<column-separated>` tag.
+Conversely, to establish horizontal spacing, declare the `<row-separated>` tag.
 
 > When setting the spacing, define the value in the property of `spacing`.
 
